@@ -1,2 +1,2 @@
-# consultas_sql
-Repositório com material introdutório produzido por mim
+## Material introdutório sobre consultas e uso de filtros em SQL
+
